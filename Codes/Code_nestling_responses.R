@@ -14,7 +14,7 @@ library(DHARMa) #Model diagnostics
 library(corrplot) #correlation matrix
 
 ## Import dataset 
-nestling_responses <- read_excel("~/Desktop/Chapter2,3_Alarmcall/Github_codes_data_MS/data_nestling_responses.xlsx") 
+nestling_responses <- read_excel("~/data_nestling_responses.xlsx") 
 attach(nestling_responses)
 str(nestling_responses)
 
