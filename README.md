@@ -3,8 +3,6 @@
 # Overview
 This repository hosts the code and data required to replicate the results in the MS 'To be or not to be alarmed? Pied flycatcher nestlings show context-dependent discrimination of within-species call variation'
 
-.
-
 ## Table of Contents
 - [Data and File overview](#data-and-file-overview)
 - [File specific information](#file-specific-information)
