@@ -14,7 +14,7 @@ library(DHARMa) #Model diagnostics
 library(ggridges) ##for LDA plot
 
 ## Import dataset 
-alarm_mds <- read_excel("~/Desktop/Chapter2,3_Alarmcall/Github_codes_data_MS/data_call_mds.xlsx") 
+alarm_mds <- read_excel("~/data_call_mds.xlsx") 
 attach(alarm_mds)
 str(alarm_mds)
 
