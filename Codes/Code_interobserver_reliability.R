@@ -8,7 +8,7 @@ library(tidyverse) #Data formatting
 library(irr) ##inter observer reliability test
 
 #import dataset
-data <- read_excel("~/Desktop/Chapter2,3_Alarmcall/Github_codes_data_MS/data_interobserver_reliability.xlsx") 
+data <- read_excel("~/data_interobserver_reliability.xlsx") 
 attach(data)
 str(data)
 
