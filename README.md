@@ -21,7 +21,7 @@ This repository contains the following:
 
 Description of files and relationship between files:
 1. The dataset `data_alarm_mds.xlsx` was used for the analysis of geographic variation in calls of the pied flycatcher and analyses can be reproduced using the R script `Code_alarmcall_geographic_variation.R`. The code can also be used to replicate Figure 1 and Supplementary Table 1, 4, 5 and 6. 
-2. The dataset `data_nestling_responses.xlsx` was used for the analysis of nestling responses of within-species call variation in alarm and non-alarm contexts and can be reproduced using the R script `Code_nestling_responses.R` The code can also be used to replicae Figure 2 and Figure 3 and Supplementary 2 and 3. 
+2. The dataset `data_nestling_responses.xlsx` was used for the analysis of nestling responses of within-species call variation in alarm and non-alarm contexts and can be reproduced using the R script `Code_nestling_responses.R` The code can also be used to replicae Figure 2 and Figure 3 and Supplementary Tables 2 and 3. 
 3. The dataset `data_interobserver_reliability.xlsx` was used for the analysis of interobserver reliability of behavioral counts during the baseline silence period and during the call playbacks and analysis can  be reproduced using the R script `Code_interobserver_reliability.R`.  
 
 Instrument- or software-specific information needed to interpret the data: 
