@@ -1,7 +1,7 @@
 # Geographic_variation_calls_nestling_responses
 
 # Overview
-This repository hosts the code and data required to replicate the results in the MS 'To be or not to be alarmed? Pied flycatcher nestlings show context-dependent discrimination of within-species call variation'
+This repository hosts the code and data required to replicate the results in the MS 'Geographical variation in parental calls contextually shapes nestling songbird responses'
 
 ## Table of Contents
 - [Data and File overview](#data-and-file-overview)
